@@ -1,0 +1,30 @@
+body { 
+    display: flex;
+
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+li {
+    list-style-type: none;
+}
+
+ul {
+    display: flex;
+    gap: 10px;
+}
+
+.hero {
+    background-color: #1f2937;
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+    display: flex;
+    flex: 1;
+}
+
+
