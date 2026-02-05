@@ -1,1 +1,1 @@
-# landing-page
+This is my first project.  Building a landing page from scratch via TOP "Project: Landing Page" design, font and colors. 
