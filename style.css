@@ -5,6 +5,10 @@ body {
     flex-direction: column;
 }
 
+h1 {
+    font-size: 24px;
+}
+
 a {
     text-decoration: none;
     font-size: 18px;
@@ -20,13 +24,12 @@ ul {
     gap: 10px;
 }
 
-.hero {
+.header {
     background-color: #1f2937;
     font-size: 48px;
     color: #f9faf8;
     font-weight: 900;
     display: flex;
-    
 }
 
 
