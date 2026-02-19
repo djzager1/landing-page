@@ -24,9 +24,20 @@ ul {
     gap: 10px;
 }
 
-.header {
+#header {
     background-color: #1f2937;
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.section {
+    padding: 20px 50px;
+}
+
+.navigator {
     display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .logo {
