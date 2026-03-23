@@ -24,20 +24,18 @@ ul {
     gap: 10px;
 }
 
-#header {
+.header {
     background-color: #1f2937;
-    color: #e5e7eb;
-    font-size: 18px;
-}
-
-.section {
-    padding: 20px 50px;
+    display: flex;
+    flex-direction: column;
+    padding: 0 100px;
+    padding-top: 20px;
 }
 
 .navigator {
-    display: flex;
-    align-items: center;
+    display: flex;    
     justify-content: space-between;
+    margin-bottom: 64px;
 }
 
 .logo {
@@ -50,15 +48,35 @@ ul {
     color: #e5e7eb;
 }
 
-.hero-main-text {
-    font-size: 48px;
-    color: #f9faf8;
-    font-weight: 900;
+.hero {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 72px;
 }
 
-.hero-secondary-text {
+.secondary-text {
     font-size: 18 px;
     color: #e5e7eb;
+    margin: 0;
 }
 
+.main-text {
+    color: #f9faf8;
+    font-weight: 900;
+    font-size: 48px;
+    margin: 0;
+}
 
+button {
+    background-color: #3882F6;
+    color: white;
+    box-shadow: none;
+    padding: 8px 20px;
+    border-radius: 8px;
+    border-color: white;
+    border: 2px solid white;
+}
+
+img {
+    border-radius: 10px;
+}
