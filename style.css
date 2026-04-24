@@ -99,12 +99,19 @@ button {
     margin-top: 50px;
     display: flex;
     justify-content: center;
-
+    
 }
 
 .info-images {
     display: flex;
     justify-content: center;
     margin-top: 50px;
-    border-radius: 10px;
+    
+}
+
+.info-text {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #7c7a7a;
 }
