@@ -141,7 +141,75 @@ button {
     font-size: 24px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     margin-left: 850px;
-    margin-bottom: 100px;
-      
+    margin-bottom: 100px;     
     
 }
+
+.sign-up {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue-container {
+    background-color: #3882F6;
+    width: 75%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    border-radius: 10px;
+}
+
+.left {
+    width: 80%;
+    margin-left: 100px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h4 {
+    font-size: 24px;
+    color: white;
+    
+}
+
+.click-btn {
+    color: white;    
+}
+
+.right {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-right: 100px;
+}
+
+.last-btn {
+    background-color: #3882F6;
+    color: white;
+    width: 200px;
+    height: 40px;
+    border: 2px solid white;
+    border-radius: 10px;
+       
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1f2937;
+    height: 100px;
+    align-items: center;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
