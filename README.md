@@ -1,1 +1,1 @@
-This is my first project.  Building a landing page from scratch via TOP "Project: Landing Page" design, font and colors. 
+This is my first project.  Building a landing page from scratch via TOP "Project: Landing Page" design, font and colors.  All pictures free-to-use images from the web.
